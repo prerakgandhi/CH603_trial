@@ -1,6 +1,6 @@
 print("hello")
 
-a = 5*4
+a = 5*3
 b = 8//4
 
 c = a*b
